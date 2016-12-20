@@ -1,0 +1,5 @@
+name: Rancher Ingress Controller
+version: v0.4.0
+category: Framework
+labels:
+  io.rancher.certified: rancher
